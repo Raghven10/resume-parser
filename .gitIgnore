@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE settings
+.idea/
+
+# Virtual environment
+venv/
+
+# Docker related
+*.log
+*.pid
+*.db
+*.sqlite

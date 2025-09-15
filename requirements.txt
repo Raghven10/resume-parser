@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+PyMuPDF
+docx2txt
+openai
+httpx
+pydantic
+aiofiles
+sqlalchemy
+dotenv
+email-validator
