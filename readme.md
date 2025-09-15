@@ -4,7 +4,7 @@
 # 📄 AI Resume Parser API
 
 ## 1. Introduction
-
+![img.png](img.png)
 The **AI Resume Parser API** is a FastAPI-based service that extracts **structured candidate information** (name, contact details, education, work experience, skills, salary expectations, etc.) from resumes in **PDF or DOCX** format.
 
 It leverages **OpenAI / Groq LLMs** for semantic extraction, **Pydantic** for schema validation, and stores parsed data in a **Postgres database** for further usage.
@@ -28,6 +28,10 @@ It leverages **OpenAI / Groq LLMs** for semantic extraction, **Pydantic** for sc
 ✅ **LLM-powered** extraction (OpenAI/Groq)
 ✅ **Pydantic validation** ensures consistent JSON output
 ✅ Store extracted resumes in **Postgres**
+
+## Bonus 
+
+✅ A beautiful **Streamlit UI** for display
 
 ---
 
