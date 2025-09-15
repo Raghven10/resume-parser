@@ -11,7 +11,9 @@ app = FastAPI(title="AI Resume Parser",
               version="1.0",
               description="""
               AI Resume Parser
-              Git Repo: http://raghven10.github.io/resumeparser
+              
+              Git Repo: https://github.com/Raghven10/resume-parser.git
+              
               """)
 
 @app.post("/parse-resume/")
