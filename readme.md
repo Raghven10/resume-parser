@@ -36,8 +36,8 @@ It leverages **OpenAI / Groq LLMs** for semantic extraction, **Pydantic** for sc
 ### 🔹 Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/resume-parser-api.git
-cd resume-parser-api
+git clone https://github.com/Raghven10/resume-parser.git
+cd resume-parser
 ```
 
 ### 🔹 Step 2: Create a virtual environment
@@ -178,3 +178,18 @@ curl -X POST "http://127.0.0.1:8000/parse-resume/" \
 4. Push and create a PR 🚀
 
 ---
+
+## 👨‍💻 Developer
+
+<a href="https://github.com/Raghven10">
+  <img src="https://avatars.githubusercontent.com/Raghven10" width="120px" style="border-radius:50%;" />
+</a>
+
+**[Raghvendra Kumar Jha](https://github.com/Raghven10)**  
+📌 Developer & Maintainer of Resume Parser API  
+💻 Passionate about NLP, FastAPI, and Generative AI  
+
+[![GitHub followers](https://img.shields.io/github/followers/Raghven10?style=social)](https://github.com/Raghven10)  
+[![GitHub stars](https://img.shields.io/github/stars/Raghven10?style=social)](https://github.com/Raghven10?tab=repositories)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raghvendra-kumar-jha-15b64416b/)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/raghven11?style=social)](https://twitter.com/raghven11)
